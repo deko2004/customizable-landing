@@ -22,11 +22,11 @@ export const metadata: Metadata = {
     title: "Landing - Build the Future Your Way",
     description:
       "Create stunning, customizable experiences with our modern platform.",
-    url: "https://yotalanding.netlify.app", // ✅ غيّر هذا إلى رابط موقعك الفعلي
+    url: "https://yotalanding.vercel.app", // ✅ غيّر هذا إلى رابط موقعك الفعلي
     siteName: "Landing",
     images: [
       {
-        url: "https://yotalanding.netlify.app/avatar.webp", // ✅ صورة Open Graph (يفضل 1200x630)
+        url: "https://yotalanding.vercel.app/avatar.webp", // ✅ صورة Open Graph (يفضل 1200x630)
         width: 1200,
         height: 630,
         alt: "Landing preview",
@@ -40,7 +40,7 @@ export const metadata: Metadata = {
     title: "Landing - Build the Future Your Way",
     description:
       "Create stunning, customizable experiences with our modern platform.",
-    images: ["https://yotalanding.netlify.app/avatar.webp"], // نفس الصورة
+    images: ["https://yotalanding.vercel.app/avatar.webp"], // نفس الصورة
   },
 };
 
